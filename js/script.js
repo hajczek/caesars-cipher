@@ -1,6 +1,6 @@
 function rot13(str) {
   
-  // An empty array for result
+  // Create an empty array for result
   let result = [];
 
   // 'For loop' throught letters of str
